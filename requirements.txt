@@ -1,0 +1,2 @@
+pyknon==1.1
+dateutils
