@@ -29,7 +29,7 @@ eg
 
 To create a file in this form, you can use the git command:
 ```
-    git log --format='%ad;%an' --date=local > get_git_data_input.txt
+    git log --after=2013-12-31 --until=2015-01-01 --format='%ad;%an' --date=local > get_git_data_input.txt
 ```
 
 
