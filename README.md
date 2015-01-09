@@ -60,3 +60,5 @@ If a line occurs where only one item exists, the level that the notes are
 transposed is increased by ``TRANSPOSITION_INCREASE``.
 
 A midi file is written to ``live.mid``.
+
+A example midi file generated from this can be found in ``examples``.
